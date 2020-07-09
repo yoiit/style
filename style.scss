@@ -1,10 +1,6 @@
 /* Copyright 2016, 2019 Openworx.
  * License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl). */
 
-@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
-
-
-
 $gray-base:              #000;
 $gray-darker:            lighten($gray-base, 13.5%);
 $gray-dark:              #666;
@@ -29,7 +25,7 @@ $brand-secondary-dark: darken($brand-secondary, 10%);
 
 body {
 
-    font-family: "Roboto";
+    font-family: tahoma;
 }
 
 .o_loading {
